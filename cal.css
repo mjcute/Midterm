@@ -1,0 +1,47 @@
+ *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+       
+        text-align: center;
+        background-size: 100% 120%;
+    }
+    #header1{
+        font-size: 32pt;
+        border: 10px solid blue;
+        width: 449px;
+        margin-left: 470px;
+        background-color: skyblue;
+        font-family: arial beige;
+       
+       
+    }
+    .border{
+        width: 449px;
+        height: 330px;
+        background-color: skyblue;
+        margin-left: 470px;
+        margin-top: -13px;
+        background-size: 100% 100%;
+        border: 10px solid blue;
+    }
+    .cal{
+       font-family: 'Times New Roman', Times, serif;
+        font-size: 24pt;
+        margin-top: 15px;
+        color: gray;
+    }
+    button{
+    margin-top: 40px;
+    background-color:gray;
+  border: none;
+  color: bisque;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 23px;
+  border-radius: 30%;
+    }
+
